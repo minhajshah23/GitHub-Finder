@@ -6,11 +6,7 @@ A React app that lets you search any GitHub user and view their profile info —
 
 ## Features
 
-- Search any GitHub username using the GitHub public API
-- View profile details: avatar, bio, followers, following, repos, location, blog, and more
-- Handles "User Not Found" gracefully
-- Navigate between search and profile pages using React Router
-- Global state managed with Context API (no Redux needed)
+
 
 ---
 
